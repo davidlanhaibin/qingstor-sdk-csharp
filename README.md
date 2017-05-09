@@ -50,4 +50,4 @@ Checkout our [releases](https://github.com/yunify/qingstor-sdk-csharp/releases) 
 
 ## LICENSE
 
-The Apache License (Version 2.0, January 2017).
+The Apache License (Version 1.0, May 2017).
