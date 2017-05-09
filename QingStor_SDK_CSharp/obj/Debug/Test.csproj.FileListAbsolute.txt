@@ -1,0 +1,11 @@
+E:\QingStor\qingstor-sdk-c#\Test\Test\bin\Debug\Test.exe.config
+E:\QingStor\qingstor-sdk-c#\Test\Test\bin\Debug\Test.exe
+E:\QingStor\qingstor-sdk-c#\Test\Test\bin\Debug\Test.pdb
+E:\QingStor\qingstor-sdk-c#\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\QingStor\qingstor-sdk-c#\Test\Test\obj\Debug\Test.exe
+E:\QingStor\qingstor-sdk-c#\Test\Test\obj\Debug\Test.pdb
+E:\QingStor\qingstor-sdk-c#\Test\Test\bin\Debug\log4net.dll
+E:\QingStor\qingstor-sdk-c#\Test\Test\bin\Debug\Newtonsoft.Json.dll
+E:\QingStor\qingstor-sdk-c#\Test\Test\bin\Debug\nunit.framework.dll
+E:\QingStor\qingstor-sdk-c#\Test\Test\bin\Debug\TechTalk.SpecFlow.dll
+E:\QingStor\qingstor-sdk-c#\Test\Test\bin\Debug\nunit.framework.xml

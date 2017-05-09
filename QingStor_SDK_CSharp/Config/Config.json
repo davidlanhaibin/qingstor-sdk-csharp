@@ -1,0 +1,9 @@
+{
+	"Host":"qingstor.com",
+	"Port":"",
+	"Protoco":"http",
+	"ConnectionRetry":"5",
+	"LogLevel":"error",
+	"AccessKeyID":"KXYDDLMPGXIFUKTGNCON",
+	"SecretAccessKey":"oaTxxQngKInORQYwJXv0rRv03TlotVHGYXYSjk1d"
+}
