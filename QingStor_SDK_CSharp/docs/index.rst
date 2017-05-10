@@ -5,7 +5,7 @@ C# SDK
 ======
 
 QingStor C# SDK 已在 GitHub 开源，下文为简要使用文档。更多详细信息请参见
-`https://github.com/yunify/qingstor-sdk-c# <https://github.com/yunify/qingstor-sdk-c#>`_
+`https://github.com/yunify/qingstor-sdk-csharp <https://github.com/yunify/qingstor-sdk-csharp>`_
 。
 
 ----
@@ -14,10 +14,10 @@ QingStor C# SDK 已在 GitHub 开源，下文为简要使用文档。更多详�
 
 可以直接使用 ``go get`` 安装::
 
-    $ go get -u github.com/yunify/qingstor-sdk-c#
+    $ go get -u github.com/yunify/qingstor-sdk-csharp
 
 也可以访问 GitHub 的
-`release 页面 <https://github.com/yunify/qingstor-sdk-c#/releases>`_
+`release 页面 <https://github.com/yunify/qingstor-sdk-csharp/releases>`_
 下载压缩包
 
 -------
