@@ -4,6 +4,6 @@
 	"Protoco":"http",
 	"ConnectionRetry":"5",
 	"LogLevel":"error",
-	"AccessKeyID":"KXYDDLMPGXIFUKTGNCON",
-	"SecretAccessKey":"oaTxxQngKInORQYwJXv0rRv03TlotVHGYXYSjk1d"
+	"AccessKeyID":"qy_access_key_id",
+	"SecretAccessKey":"qy_secret_access_key"
 }
