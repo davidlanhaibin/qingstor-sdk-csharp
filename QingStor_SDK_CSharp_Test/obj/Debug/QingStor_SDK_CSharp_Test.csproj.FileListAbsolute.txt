@@ -1,9 +1,0 @@
-E:\QingStor\qingstor-sdk-c#\Test\QingStor_SDK_CSharp_Test\obj\Debug\QingStor_SDK_CSharp_Test.csprojResolveAssemblyReference.cache
-E:\QingStor\qingstor-sdk-c#\Test\QingStor_SDK_CSharp_Test\bin\Debug\QingStor_SDK_CSharp_Test.dll.config
-E:\QingStor\qingstor-sdk-c#\Test\QingStor_SDK_CSharp_Test\bin\Debug\QingStor_SDK_CSharp_Test.dll
-E:\QingStor\qingstor-sdk-c#\Test\QingStor_SDK_CSharp_Test\bin\Debug\QingStor_SDK_CSharp_Test.pdb
-E:\QingStor\qingstor-sdk-c#\Test\QingStor_SDK_CSharp_Test\bin\Debug\nunit.framework.dll
-E:\QingStor\qingstor-sdk-c#\Test\QingStor_SDK_CSharp_Test\bin\Debug\TechTalk.SpecFlow.dll
-E:\QingStor\qingstor-sdk-c#\Test\QingStor_SDK_CSharp_Test\bin\Debug\nunit.framework.xml
-E:\QingStor\qingstor-sdk-c#\Test\QingStor_SDK_CSharp_Test\obj\Debug\QingStor_SDK_CSharp_Test.dll
-E:\QingStor\qingstor-sdk-c#\Test\QingStor_SDK_CSharp_Test\obj\Debug\QingStor_SDK_CSharp_Test.pdb
