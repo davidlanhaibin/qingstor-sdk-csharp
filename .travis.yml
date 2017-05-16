@@ -1,8 +1,7 @@
 language: csharp
 before_install:
- - chmod +x build/build.mono.sh
+  - 
 install:
   - nuget restore QingStor_SDK_CSharp.sln
 script:
-  - ./build/build.mono.sh
   - xbuild /p:Configuration=Release QingStor_SDK_CSharp.sln
