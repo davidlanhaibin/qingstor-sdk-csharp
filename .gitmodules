@@ -1,6 +1,1 @@
-[submodule "src/specs/qingstor/qingstor-api-specs"]
-	path = src/specs/qingstor/qingstor-api-specs
-	url = https://github.com/yunify/qingstor-api-specs.git
-[submodule "src/specsqingstor"]
-	path = src/specsqingstor
-	url = https://github.com/yunify/qingstor-api-specs.git
+
